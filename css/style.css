@@ -131,3 +131,16 @@ td {
 .multi-days a:hover { color: #000; }
 
 .no-event { color: #aaa; }
+
+.mantra
+{
+	font-size: 14px;
+  padding: 6px;
+  display: inline-block;
+  border: 0;
+  text-transform: uppercase;
+  margin: 0 10px;
+  border: 2px solid #ccf4ff;
+  background: #fffccc;
+  color: #000;
+}
